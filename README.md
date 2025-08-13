@@ -19,7 +19,6 @@ https://github.com/user-attachments/assets/a73dbf1e-502a-402a-9d1c-41dbcf15db20
 - **State Management**: Utilizes Redux for predictable state management across the application.
 - **Asynchronous Email Sending**: Employs Celery with Redis for handling email dispatch in the background.
 - **Secure Communication**: Axios is used for making HTTP requests between the frontend and backend.
-- **User Authentication**: Secure login and registration system to manage user sessions.
 
 ---
 
